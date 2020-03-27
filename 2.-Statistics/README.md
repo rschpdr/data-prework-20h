@@ -1,4 +1,4 @@
-# Statistics
+# Introduction to Statistics & Probability 
 The statistics challenge consists of completing the short lab contained in challenge.ipynb. This challenge is *required*.
 To get started, open the notebook file in browser. Then, follow the step-by-step instructions to solve the challenge in the interactive coding environment.
 
