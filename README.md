@@ -27,7 +27,7 @@ To complete the statistics exercises, navigate to the Statistics directory, wher
 ## Deliverables
 The files you need to submit are:
 - The `.ipynb` files of each Python challenge including the solutions.
-- The `.ipynb` file of the Statistics & Probability challenge, including solutions. 
+- The `Challenge.ipynb` file of the Statistics & Probability challenge, including solutions. 
 
 ## Submitting Your Work
 
