@@ -4,7 +4,7 @@ To get started, open the notebook file in browser. Then, follow the step-by-step
 
 ## Deliverables
 The files you need to submit are:
-- The `.ipynb` files file of the challenge including the solutions.
+- The `Challenge.ipynb` files file of the challenge including the solutions.
 
 ## Submitting Your Work
 
