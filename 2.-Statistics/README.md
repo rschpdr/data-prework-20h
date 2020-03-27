@@ -13,6 +13,8 @@ If you are an enrolled student, **you are required to submit your solutions befo
 
 If you have time and would like more practice, you may also complete the following challenge as well.
 
+
+
 ### Bonus Challenge
 The statistics bonus challenge consists of completing the Data Science Math Skills course in Coursera, offered by Duke University.
 
