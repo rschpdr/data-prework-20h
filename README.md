@@ -27,7 +27,7 @@ To complete the statistics exercises, navigate to the Statistics directory, wher
 ## Deliverables
 The files you need to submit are:
 - The `.ipynb` files of each Python challenge including the solutions.
-- Screenshots of all the challenges in the `Data Science Math Skills` course in Coursera. 
+- The `.ipynb` file of the Statistics & Probability challenge, including solutions. 
 
 ## Submitting Your Work
 
